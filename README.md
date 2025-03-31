@@ -1,11 +1,10 @@
 # 🛠️ pommelstrike quick tools
 
-A lightweight Blender addon designed to simplify and speed up common mesh management tasks for 3D workflows. Includes tools for updating mesh data names, calculating and exporting mesh bounds with rotation adjustments, and copying formatted bounds to the clipboard.
+A lightweight Blender addon designed to simplify and speed up the broken BG3 modkit min/max bounds for objects being dropped on to the world space.
+Includes tools for updating mesh data names, calculating and exporting mesh bounds with rotation adjustments, and copying formatted bounds to the clipboard.
 
 > ✅ Compatible with **Blender 3.8**  
 > 🔧 Current version: **v2.5.18**  
-> 📦 Category: `Object`
-
 ---
 
 ## ✨ Features
@@ -15,11 +14,10 @@ Easily synchronize the mesh data name to match the selected object's name—grea
 
 ### 📏 Calculate Mesh Bounds
 Computes the **Min**, **Max**, **Center**, and **Radius** of selected mesh objects with:
-- Automatic **Z-up to Y-up** conversion (for game engine compatibility)
-- Optional **X-axis offset** of `0.14` units for positional fine-tuning
+- Automatic **Z-up to Y-up** conversion (for BG3 game engine compatibility)
 
 ### 📋 Copy Bounds to Clipboard
-Exports the calculated bounds in a structured XML-like format, perfect for use in external tools or pipelines.
+Exports the calculated bounds in a structured XML format, for transfering to your mesh.lsx/lsf
 
 Example output:
 ```xml
@@ -27,3 +25,38 @@ Example output:
 <attribute id="BoundsMin" type="fvec3" value="-1.23 -4.56 -7.89" />
 <attribute id="Center" type="fvec3" value="0.00 0.00 0.00" />
 <attribute id="Radius" type="float" value="7.89" />
+```
+
+---
+
+## 🎥 Demo
+
+Here’s a quick look at the addon in action:
+
+![quicktools_min-max](https://github.com/pommelstrike/pommelstrike_quicktools/blob/main/quicktools_min-max.gif?raw=true)
+
+---
+
+## 📦 Installation
+
+1. Download the addon `.zip` file.
+2. In Blender, go to **Edit > Preferences > Add-ons**.
+3. Click **Install**, select the file, and enable **pommelstrike quick tools**.
+4. Access it from the **3D Viewport > Sidebar (N-panel) > pommelstrike** tab.
+
+---
+
+
+## 📄 License
+
+This project is open-source and available under the MIT License.  
+Feel free to use, modify, and redistribute.
+
+---
+
+## 🤝 Acknowledgments
+
+**pommelstrike**  
+If this tool helps your workflow, consider supporting via [Patreon](https://www.patreon.com/pommelstrike)
+
+---
