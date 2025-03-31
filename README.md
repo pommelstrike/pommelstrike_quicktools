@@ -70,6 +70,7 @@ This project is open-source and available under the MIT License.
 
 ## 🤝 Acknowledgments
 jovito / byte0bard https://github.com/Byte0Bard for the assitance and advice on Y-up.
+---
 **pommelstrike**  
 If this tool helps your workflow, consider supporting via [Patreon](https://www.patreon.com/pommelstrike)
 
