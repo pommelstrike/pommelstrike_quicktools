@@ -1,5 +1,5 @@
 # 🛠️ pommelstrike quick tools
-If this tool helps your workflow, consider supporting via [Patreon](https://www.patreon.com/pommelstrike)
+If this tool helps your workflow, consider supporting following via [Patreon](https://www.patreon.com/pommelstrike) it is free! 
 
 ---
 
