@@ -49,14 +49,13 @@ Here’s a quick look at the addon in action:
 
 ### 🔍 Finding Your Mesh's `.lsf` Path
 
-To locate your mesh's `.lsf` file in **CrayonBox Resource Manager**:
+To locate your mesh's `.lsf` file in **BG3 Modder Toolkit "CrayonBox" Resource Manager**:
 
-1. Open **CrayonBox Resource Manager**.
+1. Open **CrayonBox** Icon.
 2. Search or browse to your desired mesh asset.
 3. **Right-click** the file path field and choose **“Copy Value to Clipboard.”**
-4. Paste the path wherever needed—such as for reference, export, or matching bounds data.
+4. Paste the path in to LSLIB / ConverterApp
 
-> 💡 *This is especially useful for syncing Blender export data with game or engine assets.*
 
 #### 📸 Visual Example
 
