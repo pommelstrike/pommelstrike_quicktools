@@ -1,4 +1,7 @@
 # 🛠️ pommelstrike quick tools
+If this tool helps your workflow, consider supporting via [Patreon](https://www.patreon.com/pommelstrike)
+
+---
 
 A lightweight Blender addon designed to simplify and speed up the broken BG3 modkit min/max bounds for objects being dropped on to the world space.
 Includes tools for updating mesh data names, calculating and exporting mesh bounds with rotation adjustments, and copying formatted bounds to the clipboard.
