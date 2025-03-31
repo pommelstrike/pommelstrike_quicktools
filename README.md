@@ -39,7 +39,7 @@ Here’s a quick look at the addon in action:
 
 ## 📦 Installation
 
-1. Download the addon `.zip` file.
+1. [Download the addon `.zip` file](https://github.com/pommelstrike/pommelstrike_quicktools/blob/main/pmlstk_quicktools.zip?raw=true).
 2. In Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install**, select the file, and enable **pommelstrike quick tools**.
 4. Access it from the **3D Viewport > Sidebar (N-panel) > pommelstrike** tab.
