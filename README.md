@@ -65,14 +65,11 @@ To locate your mesh's `.lsf` file in **BG3 Modder Toolkit "CrayonBox" Resource M
 
 
 ## 📄 License
-
 This project is open-source and available under the MIT License.  
-Feel free to use, modify, and redistribute.
-
 ---
 
 ## 🤝 Acknowledgments
-
+jovito / byte0bard https://github.com/Byte0Bard for the assitance and advice on Y-up.
 **pommelstrike**  
 If this tool helps your workflow, consider supporting via [Patreon](https://www.patreon.com/pommelstrike)
 
