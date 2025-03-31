@@ -44,6 +44,22 @@ Here’s a quick look at the addon in action:
 3. Click **Install**, select the file, and enable **pommelstrike quick tools**.
 4. Access it from the **3D Viewport > Sidebar (N-panel) > pommelstrike** tab.
 
+
+### 🔍 Finding Your Mesh's `.lsf` Path
+
+To locate your mesh's `.lsf` file in **CrayonBox Resource Manager**:
+
+1. Open **CrayonBox Resource Manager**.
+2. Search or browse to your desired mesh asset.
+3. **Right-click** the file path field and choose **“Copy Value to Clipboard.”**
+4. Paste the path wherever needed—such as for reference, export, or matching bounds data.
+
+> 💡 *This is especially useful for syncing Blender export data with game or engine assets.*
+
+#### 📸 Visual Example
+
+![CrayonBox - Copy LSF Path](https://github.com/pommelstrike/pommelstrike_quicktools/blob/main/mni-max.png?raw=true)
+
 ---
 
 
